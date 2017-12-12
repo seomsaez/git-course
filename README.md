@@ -1,2 +1,3 @@
 # git-course
-Hello World! This is Maria
+Hello World!
+Creating a branch
